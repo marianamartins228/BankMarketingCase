@@ -1,21 +1,21 @@
-Olá, como vai? Sabe aquele momento em que a teoria finalmente encontra a prática? Decidi criar este projeto justamente para celebrar essa transição. Ele é o resultado do meu mergulho no primeiro módulo do MBA em Data Science and Analytics da USP/Esalq, onde explorei desde as bases da estatística descritiva e testes de hipóteses até o poder de automação e análise que o Python nos oferece. Meu objetivo aqui não foi apenas executar fórmulas ou scripts, mas sim construir um recurso prático onde cada análise conta uma parte da história escondida nos dados. Convido você a acompanhar como utilizei as ferramentas clássicas e modernas para resolver problemas reais no case abaixo:
+Olá, como vai? Sabe aquele momento em que a teoria finalmente encontra a prática? Decidi criar este projeto justamente para celebrar essa transição. 
+Ele é o resultado do meu mergulho no primeiro módulo do MBA em Data Science and Analytics da USP/Esalq, onde explorei desde as bases da estatística descritiva e testes de hipóteses até o poder de automação e análise que o Python nos oferece. 
+Meu objetivo aqui não foi apenas executar fórmulas ou scripts, mas sim construir um recurso prático onde cada análise conta uma parte da história escondida nos dados. 
+
+Convido você a acompanhar como utilizei as ferramentas clássicas e modernas para resolver problemas reais no case abaixo:
 
 # Case: Otimização de Campanha de Investimentos - Fintech "DataBank"
 
 ### Contexto
 
 A **DataBank** é uma fintech que oferece produtos de investimento. Recentemente, eles realizaram uma grande campanha de telemarketing para oferecer um CDB.
-O custo de manter uma central de vendas ativa é altíssimo, e os resultados da última campanha foram controversos. A diretoria de Marketing não quer mais ligar para "todo mundo". Eles precisam que você o analista de dados identifique o perfil ideal de cliente e valide se certas estratégias (como tempo de ligação ou segmentação por escolaridade) realmente trazem resultados estatisticamente significativos.
+O custo de manter uma central de vendas ativa é altíssimo, e os resultados da última campanha foram controversos. A diretoria de Marketing não quer mais ligar para "todo mundo". Eles precisam que eu identifique o perfil ideal de cliente e valide se certas estratégias (como tempo de ligação ou segmentação por escolaridade) realmente trazem resultados estatisticamente significativos.
 
-### 2. Objetivo de Negócio
+### Objetivo de Negócio
 
 **Reduzir o custo de aquisição de clientes (CAC)** e **aumentar a taxa de conversão**, gerando um relatório técnico que direcione a próxima campanha apenas para os leads com maior probabilidade de fechamento.
 
----
-
-### 3. Roteiro de Execução (Seu "North Star")
-
-Para atingir esse objetivo, você dividirá seu projeto em 4 perguntas fundamentais que utilizam todo o conteúdo do seu MBA:
+Para atingir esse objetivo, dividirei o meu projeto em 4 perguntas fundamentais que utilizam todo o conteúdo aprendido no módulo introdutório do MBA:
 
 ### **Pergunta 1: Qual é o "retrato falado" do nosso cliente atual?**
 
